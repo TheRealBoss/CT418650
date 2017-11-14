@@ -1,0 +1,20 @@
+1568026,1,Viiklaid
+1754838,4,Viiklaid
+1332158,4,Viiklaid
+9758704,2,Viiklaid
+2727705,1,Viiklaid
+1084310,1,Viiklaid
+1294876,5,Viiklaid
+9471898,2,Viiklaid
+1107353,4,Viiklaid
+2453323,10,Viiklaid
+2533181,4,Viiklaid
+1750222,1,Viiklaid
+2492886,4,Viiklaid
+1689863,5,Viiklaid
+1903906,4,Viiklaid
+2443265,5,Viiklaid
+1608726,1,Viiklaid
+2524922,10,Viiklaid
+
+1x Atmega32u4
